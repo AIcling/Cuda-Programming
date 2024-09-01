@@ -3,6 +3,7 @@ from torch.autograd import Function
 from torch.utils.cpp_extension import load
 
 linear_cpp = load(name="linear_cpp", sources=["qkv.cpp", "qkv_kernel.cu"])
+attention_cpp = load(name="attention_cpp", sources=["attention.cpp", "attention_kernel.cu"])
 
 class ComputeQKV(Function):
     @staticmethod
