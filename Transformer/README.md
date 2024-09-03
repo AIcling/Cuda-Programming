@@ -3,3 +3,5 @@
 已完成：
 
 [1.layernorm](./Others/layernorm.cu)
+
+[2.SoftMax](./Othres/softmax.cu)
