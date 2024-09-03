@@ -4,4 +4,4 @@
 
 [1.layernorm](./Others/layernorm.cu)
 
-[2.SoftMax](./Othres/softmax.cu)
+[2.SoftMax](./Others/softmax.cu)
