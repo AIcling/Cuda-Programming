@@ -5,3 +5,5 @@
 [1.layernorm](./Others/layernorm.cu)
 
 [2.SoftMax](./Others/softmax.cu)
+
+[3.Activation](./Others/activation.cu)
